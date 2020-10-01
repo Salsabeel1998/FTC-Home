@@ -526,10 +526,14 @@ border-radius: 10px;
 .soicalIcon__size{
   font-size: 25px;
 }
-.footer__link{
+.footer__link a{
   font-size: 18px;
   font-family: Roboto;
   font-weight: 400;
+  color: #000000;
+}
+.footer__link:hover a{
+  color: #000000;
 }
 .space__betwwen__footerLinks{
   justify-content: space-between;
